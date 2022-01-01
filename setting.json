@@ -19,7 +19,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"https://babyeee.com",
+      "target":"https://fpeedee.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
@@ -28,13 +28,13 @@
       ],
       "replace-string":[
         {
-          "target":"https://babyeee.com",
+          "target":"https://fpeedee.com",
           "replace":"${nameWeb}"
         }
       ]
     },
     {
-      "target":"https://babyeee.com",
+      "target":"https://fpeedee.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
@@ -75,7 +75,7 @@
       "data-attribute":[
         {
           "name-attribute":"src",
-          "value-attribute":"//canoevaguely.com/a5/4e/59/a54e59d1cea377be28613687b2ce8ac6.js"
+          "value-attribute":"#"
         }
       ],
       "data-innerHTML":"",
@@ -90,7 +90,7 @@
         },
         {
           "name-attribute":"content",
-          "value-attribute":"tdwDvJl9tI5DAnMhFtBr7FQanvM9xrQE3nshBAAaT3Y"
+          "value-attribute":"eTsGl4DK4DCKnZtJAcLSqav4JktKLoSkyzPS2xoGYD4"
         }
       ],
       "data-innerHTML":"",
@@ -239,8 +239,8 @@
           "value-attribute":"https://www.googletagmanager.com/gtag/js"
         },
         {
-          "name-attribute":"gtag",
-          "value-attribute":"G-B1K1PWQ8W8"
+          "name-attribute":"#",
+          "value-attribute":"#"
         }
       ],
       "data-innerHTML":"",
@@ -253,7 +253,7 @@
       "data-attribute":[
         {
           "name-attribute":"src",
-          "value-attribute":"src='//pop.dojo.cc/5025.js"
+          "value-attribute":"#"
         }
       ],
       "data-innerHTML":"",
